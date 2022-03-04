@@ -1,8 +1,9 @@
 # GIT_IT_IOS_PUBLIC
 
 ## 팀원
-- Frontend : [박윤배](https://github.com/parkyounbae) [서시언](https://github.com/SeoSiun)
-- Backend : [이지원](https://github.com/Rudolf0328)
+- Frontend : [박윤배](https://github.com/parkyounbae) [서시언](https://github.com/SeoSiun) 정성훈
+- Backend : [이지원](https://github.com/Rudolf0328) 서시언 김규리
+- [서버 github](https://github.com/Rudolf0328/Git-it-server)
 
 ## 앱 개요
 ```
